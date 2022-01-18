@@ -46,7 +46,7 @@ const Work = () => {
                         animate={controls}
                         className="text-container"
                     >
-                        <p>Page still in progress. Try again later!</p>
+                        <p>Work in Progress</p>
                     </motion.div>
                 </div>
             </div>
